@@ -50,3 +50,5 @@ PDF Print
 page setting (not finsih yet)
 
 Custom 404 Page Direction
+(You Need To Change Location at htaccess)
+URL: http://localhost/Project/Hotal%20management%20system/Hotel-Management-System/404.php
