@@ -1,3 +1,5 @@
+Date -> 13 October 2021
+
 Cleint Degsin is From internet.
 Admin/Staff Dashboard is From material bootstrap4 free version.
 Develope By Thaw Zin Soe
@@ -26,3 +28,23 @@ staff
 
 Yanadar
 123
+
+
+
+####Feature of This Hotel Management System PROJECT ###########
+
+Mutliple Role Management System
+(admin and staff role login , logout )
+
+Blog / Event / Category / Room 
+(Create , Update , Read and Delete)
+
+Pagination
+
+Search
+
+Datatable 
+
+PDF Print 
+
+page setting (not finsih yet)
