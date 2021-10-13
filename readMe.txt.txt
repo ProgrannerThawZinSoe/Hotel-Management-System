@@ -48,3 +48,5 @@ Datatable
 PDF Print 
 
 page setting (not finsih yet)
+
+Custom 404 Page Direction
