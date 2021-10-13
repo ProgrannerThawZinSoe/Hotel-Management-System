@@ -20,7 +20,6 @@ admin
 
 Thaw Zin Soe
 123
-
 Thiri San
 123
 
@@ -33,22 +32,26 @@ Yanadar
 
 ####Feature of This Hotel Management System PROJECT ###########
 
-Mutliple Role Management System
-(admin and staff role login , logout )
+1. Mutliple Role Management System
+(admin and staff role login , logout , Change Role)
 
-Blog / Event / Category / Room 
+2. Account / Blog / Event / Category / Room 
 (Create , Update , Read and Delete)
 
-Pagination
+3. Booking Order Receive and Confirm
 
-Search
+4. Subscribe and Contact Receive 
 
-Datatable 
+5. Page Pagination
 
-PDF Print 
+6. Local Search Engine
 
-page setting (not finsih yet)
+7. Datatable For Data
 
-Custom 404 Page Direction
-(You Need To Change Location at htaccess)
-URL: http://localhost/Project/Hotal%20management%20system/Hotel-Management-System/404.php
+8. PDF Print (not finsih yet)
+
+9. page setting (not finsih yet)
+
+10. Custom Error Page Direction
+
+####Feature of This Hotel Management System PROJECT ###########
