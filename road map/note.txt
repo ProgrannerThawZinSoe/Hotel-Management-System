@@ -1,0 +1,112 @@
+client
+-> booking
+
+admin
+-> account (admin/staff)
+-> permission
+-> room / category (crud)
+-> check in/out
+-> booking confirm / cancel
+-> proflit report
+-> payment report
+
+staff
+-> check in/out
+-> booking confirm / cancel
+-> signal payment report
+
+#####################################
+#####################################
+#####################################
+
+account
+id  -> auto increment
+username -> varchar (225)
+password -> varchar (225)
+role -> varchar (225)
+create_date -> current_time
+
+
+room_category
+id  -> auto increment
+category_name -> varchar (225)
+image -> varchar(225)
+price -> varchar (225)
+
+room
+id  -> auto increment
+room_name -> varchar (225)
+category_id -> varchar (225)
+aviable -> varchar (225)
+
+booking
+id  -> auto increment
+name -> varchar (225)
+phone -> varchar (225)
+room_category -> varchar (225)
+check_in -> varchar (225)
+check_out -> varchar (225)
+reference -> varchar (225)
+confirm -> varchar (225)
+
+
+
+#############################
+#############################
+#############################
+
+slidebar.php
+navbar.php 
+edit user.php
+
+
+###############################
+11.10.2021
+category detail done    
+category delete done 
+category update done 
+account update done
+room create  , delete  done
+navbar active done
+############################
+12.10.2021
+room update 
+room fix
+membership system  for admin and staff
+cookie
+Frontend degsin fix
+############################
+13.10.2021
+Frontend Data Show 
+Booking Create ,
+Booking Show in admin 
+Confirm 
+############################
+14.10.2021
+Blog CRUD
+Search 
+############################
+17.10.2021
+Page Setting
+Search
+Project Deploy (optional)
+
+############################
+page setting 
+page title 
+phone
+address
+fb  
+twitter 
+linkedin
+banner_image
+
+
+note 
+
+booking innovatic
+staff
+booking delete (satt and admin)
+staff admin blog detail
+staff admin event detail
+client event blog image size make to 100%
