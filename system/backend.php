@@ -203,7 +203,6 @@
             $_SESSION["Booking_Success"] = "Order Booking Success ( Hotel Service Will Call Your Phone Very Soon )";
             header("location:../booking.php");
         }
-
     }
 
     /* booking change */
